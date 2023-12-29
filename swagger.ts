@@ -25,8 +25,8 @@ function setupSwaggerDocs(app: express.Express) {
       },
       servers: [
         {
-          url: 'https://student-management-system-six.vercel.app/', 
-          description: 'Vercel deployment',
+          url: 'http://localhost:3000/', 
+          description: 'Local',
         },
       ],
     },

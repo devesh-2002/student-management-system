@@ -14,9 +14,9 @@
     "yamljs": "^0.3.0"
   },
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "nodemon index.ts",
     "build": "tsc"
-  },  
+    }, 
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
     "@types/cors": "^2.8.17",
