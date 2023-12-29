@@ -11,7 +11,7 @@ yarn
 ```
 nodemon index.ts
 ```
-4. Test the API on PostMan API or  just visit /docs and get guided there regarding the routes.
+4. Test the API on PostMan API or  just visit Swagger UI (http://localhost:3000/docs) and get guided there regarding the routes.
 
 PostMan Link : https://documenter.getpostman.com/view/24176563/2s9YsDiZek
 
