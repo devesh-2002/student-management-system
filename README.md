@@ -1,5 +1,5 @@
 # Student Management System
-## This is a Node.js based Student Management System. 
+This is a Student Management System made using Node.js, MongoDB, Typescript. 
 
 ## Run the Project
 1. Clone and Fork the Repo.
