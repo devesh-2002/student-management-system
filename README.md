@@ -7,11 +7,13 @@
 ```
 yarn
 ```
-3. Run the project using :
+3. Run the project on localhost:3000 using :
 ```
 nodemon index.ts
 ```
-4. Test the API on PostMan API or  just visit /docs and get guided there regarding the routes.
+4. Test the API on PostMan API or  just visit Swagger UI (http://localhost:3000/docs) and get guided there regarding the routes.
+
+PostMan Link : https://documenter.getpostman.com/view/24176563/2s9YsDiZek
 
 Routes : 
 1. Admin Login : /admin/login -> Enter email and password
